@@ -40,24 +40,17 @@ PolarityFlip
     this application.
 
     PolarityFlip.ino			by David Mandala - GPL v3 only
-    ssd1306 library v 1.3.0		by Bill Greiman  - GPL v3 and later
-    EncoderStepCounter v 1.1.0 library	by Manuel Reimer - LGPL v3.0
     README.md		    		This file
  
 ## Requires
 
-    Morse requires the piGPIO library and the libconfuse library to compile
-    and run.  Both of those library's are compatible with the GPLv2 license.
+    PolarityFlip.ino require both ssd1306 and EncoderStepCounter librarys. 
+    In reality both could be bypassed and direcly handled but using the
+    librarys made it days if not a week faster to get the code written. Time
+    is money so....
 
-    Information about the pigpio library can be found at:
-    http://abyz.me.uk/rpi/pigpio/ and the source code can be cloned from:
-    git clone https://github.com/joan2937/pigpio
-    
-    Morse requires the use of the daemon pigpiod run as root.
-
-    libConfuse is a configuration file parser library, information about
-    libconfuse is at: https://github.com/martinh/libconfuse and the source
-    code can be cloned from: https://github.com/martinh/libconfuse.git
+    ssd1306 v 1.3.0 library		by Bill Greiman  - GPL v3 and later
+    EncoderStepCounter v 1.1.0 library	by Manuel Reimer - LGPL v3.0
 
 ## License
 
