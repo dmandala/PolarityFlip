@@ -40,9 +40,9 @@ PolarityFlip
     this application.
 
     PolarityFlip.ino			by David Mandala - GPL v3 only
-    ssd1306 library v 1.3.0		by Bill Greiman - MIT license
+    ssd1306 library v 1.3.0		by Bill Greiman  - GPL v3 and later
     EncoderStepCounter v 1.1.0 library	by Manuel Reimer - LGPL v3.0
-    README.md		    This file
+    README.md		    		This file
  
 ## Requires
 
