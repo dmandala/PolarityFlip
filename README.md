@@ -1,11 +1,11 @@
-Morse
+PolarityFlip
 =====
 
 ## The Story
 
     I found a client that had a specific need that could not be met at the
     local electronics store or Amazon.  He wanted a portable device that
-    could take a variable DC input (5V -24V), and flip the polarity on the
+    could take a variable DC input (5V-24V), and flip the polarity on the
     output to change the direction of a DC motor.  He wanted it timed, from
     1 second to 1000 seconds between polarity flips.  It was to keep doing
     this as long as it was on.
@@ -61,4 +61,4 @@ Morse
 
 ## License
 
-    The GPLv2 license only, no later versions. See GPLv2-LICENSE.txt
+    The GPLv3 license only, no later versions. See GPLv3-LICENSE.txt
